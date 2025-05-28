@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm KuroGeo
 
-<!--
-**KuroGeo/KuroGeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## 💡 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Front-end developer passionate about React and its philosophy
+- 🪙 Enthusiast of cryptocurrency and blockchain technology
+- 🚀 Always learning, sharing, and building new things
+
+## 🚀 Interests
+
+- React / Next.js / TypeScript
+- Blockchain development (Solidity, smart contracts)
+- Front-end engineering and open source collaboration
+
+## 🌱 Currently Exploring
+
+- Web3 application development
+- Innovative projects in the React ecosystem
+
+## 📫 Get in Touch
+
+Feel free to connect if you want to discuss front-end development, blockchain tech, or any exciting ideas!
+
+---
+
+> “Code changes the world, and ideals drive the future.”
