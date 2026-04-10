@@ -23,6 +23,8 @@ Welcome to my GitHub!
 
 Feel free to connect if you want to discuss front-end development, blockchain tech, or any exciting ideas!
 
+Email: kurogeo.me@gmail.com
+
 ---
 
 > “Code changes the world, and ideals drive the future.”
