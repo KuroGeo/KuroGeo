@@ -1,42 +1,22 @@
 # Hi, I'm George Ye
 
-Front-End Engineer focused on React Native, React, and e-commerce product engineering.
+I'm an AI engineer who builds products from idea to working experience. My work spans multimodal creation workflows, model integration, backend orchestration, and mobile and web interfaces. Before moving into AI product work, I built consumer experiences for Douyin E-commerce at ByteDance.
 
-I have worked on consumer-side Douyin e-commerce products at ByteDance, covering Shop,
-Showcase, short-video commerce, and AI commerce. I enjoy building fast, reliable,
-multi-platform experiences and turning product ideas into stable engineering systems.
+## Selected work
 
-## What I Work On
+- **[AI Ad Creative Canvas](https://kurogeo.github.io/web-resume/work/cbi/)** · Led the product architecture and delivery of a node-based canvas for ad creative production. Connected reference videos, product images, scripts, and asynchronous generation into editable workflows, and worked with backend and model teams on a working demo of creative replication and video assembly.
+- **Douyin AI Content & Gift Assistant POC** · Built an AI content app's multi-feed experience and content management interface. For a gift-shopping assistant POC, integrated Coze workflows and Volcano Engine models with Agent conversations and generated assets.
+- **Douyin In-feed Shopping Card** · Led iterations on coupon flows, price animations, and a video mini-player for shopping cards in a recommendation feed serving 100M+ page views. Improved staged rollout, weak-network fallback, tracking, and monitoring.
+- **Douyin storefront and cross-platform commerce** · Built reusable store-entry experiences and worked on Native/Lynx mixed rendering, third-party component migration, and commerce surfaces across multiple content apps.
 
-- Mobile and front-end engineering with TypeScript, React.js, React Native, Lynx, Mini Program technologies, and Node.js
-- E-commerce product infrastructure, including shop decoration, ISV component integration, multi-host rendering, and low-code preview tooling
-- Performance optimization for consumer-side containers, component loading, and key conversion flows
-- AI commerce experiments, including AI content apps, agent-style products, and LLM workflow integration
-- Engineering quality, including monitoring, analytics standards, regression coverage, schema/API validation, and OnCall workflows
+## Experience and tools
 
-## Selected Experience
+- **ByteDance · Douyin E-commerce** — Frontend Engineer, mobile and cross-platform · Jun 2021 – Apr 2026
+- **South China University of Technology** — B.Eng. in Information Engineering · 2017 – 2021
+- **Tools I work with:** TypeScript, React, React Native, Flutter, Lynx, and Go
 
-- Built mixed-layout, low-code, and preview capabilities for Douyin Shop, supporting shop decoration, ISV components, and rendering across multiple host apps.
-- Led interaction and strategy iterations for short-video commerce custom cards, improving CTR and conversion flows and growing average daily GMV from RMB 10M+ to RMB 100M+.
-- Served as front-end technical owner for the Douyin Shop homepage decoration mixed-layout project, reducing page load time from 2s to 1.2s on iOS and from 3s to 1.7s on Android.
-- Participated in zero-to-one AI commerce product development, including an AI content app, gift assistant agent, content management tools, and LLM-powered content generation workflows.
+## Connect
 
-## Tech Stack
-
-`TypeScript` `JavaScript` `React.js` `React Native` `Lynx` `Android` `Node.js` `Go`  
-`Front-End Architecture` `Performance Optimization` `Monorepo` `CI/CD` `Micro Frontends`
-
-## Currently Interested In
-
-- React Native and cross-platform mobile engineering
-- AI-assisted product development and AI coding workflows
-- Commerce user experience, conversion optimization, and scalable front-end architecture
-
-## Contact
-
-- Email: [kurogeo.me@gmail.com](mailto:kurogeo.me@gmail.com)
-- Telegram: [@KuroGeo](https://t.me/KuroGeo)
-
----
-
-Building useful products, one carefully shipped interface at a time.
+- [Portfolio and résumé (English / 中文)](https://kurogeo.github.io/web-resume/)
+- [LinkedIn](https://www.linkedin.com/in/george-y-2303572b2/)
+- [Email](mailto:yeyufeng1998@gmail.com)
